@@ -2,7 +2,7 @@
 
 ## Product Roadmap
 
-### v1.0
+### v1.0 Targets
 
 - Able to play locally and manually.
 
